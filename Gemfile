@@ -54,4 +54,4 @@ gem 'rspec-rails', group: [:development, :test]
 gem 'factory_girl_rails', group: [:development, :test]
 gem 'rubocop', group: :development
 gem 'rubocop-checkstyle_formatter', group: :development
-gem 'kaminari'
+
