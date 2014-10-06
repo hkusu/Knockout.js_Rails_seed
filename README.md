@@ -4,5 +4,4 @@
 $ git clone https://github.com/hkusu/Knockout.js_Rails_seed.git
 $ cd Knockout.js_Rails_seed
 $ bundle install --path vendor/bundle
-$ ./bin/rake db:create
 ```
